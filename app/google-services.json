@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356321792634",
+    "project_id": "notec-4857c",
+    "storage_bucket": "notec-4857c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356321792634:android:aa02618b29e967663fe1c3",
+        "android_client_info": {
+          "package_name": "com.example.splashactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356321792634-f3d9g1nos68op3qci4gibsf4fh7jg590.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv9yG630_akunl76eDrC7QoXI8vXvUYpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356321792634-f3d9g1nos68op3qci4gibsf4fh7jg590.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
